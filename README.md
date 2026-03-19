@@ -1,5 +1,4 @@
-## Hi there ,
-# I'm GAYATRI 👋
+## Hi there 👋
 
 ## About Me
 - **Name:** GAYATRI GAJANAN PALODKAR
