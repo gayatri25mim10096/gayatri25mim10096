@@ -3,7 +3,7 @@
 ## About Me
 - **Name:** GAYATRI GAJANAN PALODKAR
 - **Branch:** INTEGRATED MTECH IN AI
-- **Year:** 1st Year B.Tech
+- **Year:** 1st Year
 
 ## What I Hope to Learn
 I hope to learn programming, problem-solving, and how to build useful projects using digital tools and technology.
